@@ -1,0 +1,6 @@
+<apex:page showheader="false" contentType="text/xml"
+  >{! '<?xml version=\"1.0\" encoding=\"UTF-8\"?>' }
+<Response>
+    <Say>Hello this is a test call center setup for simple finance app developed by Happiest Minds as CTI solution</Say>
+</Response>
+</apex:page>
